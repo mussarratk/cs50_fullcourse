@@ -1,5 +1,5 @@
 # cs50_fullcourse
-Sure, let's add some more features to the table columns to provide a more comprehensive comparison of the data structures in Python:
+Data structures in Python:
 
 | Data Structure | Instantiation               | Uses                                       | Mutability | Orderability | Indexability | Functions/Methods                                                | Operations                                                             | Memory Overhead                   | Membership Testing                 | Iteration                                                         |
 |----------------|-----------------------------|--------------------------------------------|------------|--------------|--------------|------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------------------------------|
